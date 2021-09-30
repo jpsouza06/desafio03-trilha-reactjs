@@ -25,7 +25,7 @@ Desafio Completo!
 # 🔧 Como Rodar
 ```
 # Copie este repositório com o comando
-git clone https://github.com/martins-rafael/lunarshoes
+git clone https://github.com/jpsouza06/desafio03-trilha-reactjs.git
 
 # Instale as dependências
 yarn 
