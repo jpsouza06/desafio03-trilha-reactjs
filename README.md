@@ -17,3 +17,20 @@ Essa será uma aplicação onde o principal objetivo é criar um hook de carr
 - Entre outros.
 
 
+![WhatsApp Image 2021-09-30 at 15 04 06](https://user-images.githubusercontent.com/54922299/135507824-ee98c10e-30ca-4c87-9181-f66c118f54d7.jpeg)
+
+
+
+Desafio Completo!
+
+# Como Rodar
+```
+Clone o projeto com 
+git clone
+
+Baixe as dependencias com
+yarn
+
+Rode com
+yarn start
+```
