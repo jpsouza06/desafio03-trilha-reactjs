@@ -1,36 +1,77 @@
-# RocketShoes
-Desafio 03 - Criando um hook de carrinho de compras
+<div align="center">
+  <h1 width = "300">RocketShoes</h1>
+</div>
 
-Desafio desenvolvido pela [Rocketseat](https://www.rocketseat.com.br/)
+<p align="center">
+    Project developed during the Bootcamp Ignite module | <a href="https://rocketseat.com.br/">@Rocketseat</a>
+</p
+  
+   ## 
 
-# 💻 Sobre o desafio
+# 📌 Contents
 
-![WhatsApp Image 2021-09-30 at 15 04 06](https://user-images.githubusercontent.com/54922299/135507824-ee98c10e-30ca-4c87-9181-f66c118f54d7.jpeg)
+* [About](#rocket-about)
+* [Screenshots](#camera-screenshots) 
+* [Technologies](#rocket-technologies) 
+* [How to Run](#wrench-how-to-run)
 
-Nesse desafio, o objetivo é criar uma aplicação para treinar mais sobre ReactJS
+# :rocket: About
 
-Essa será uma aplicação onde o principal objetivo é criar um hook de carrinho de compras. Você terá acesso a duas páginas, um componente e um hook para implementar as funcionalidades pedidas nesse desafio:
+Creating a Shopping Cart Hook
+  
+This challenge created by rocketseat is part of the Reactjs track, in which the objective was to create a shopping cart hook. With access to two pages, a component and a hook to implement the features requested in this challenge:
 
-- Adicionar um novo produto ao carrinho;
-- Remover um produto do carrinho;
-- Alterar a quantidade de um produto no carrinho;
-- Cálculo dos preços sub-total e total do carrinho;
-- Validação de estoque;
-- Exibição de mensagens de erro;
-- Entre outros.
+- Add a new product to the cart;
+- Remove a product from the cart;
+- Change the quantity of a product in the cart;
+- Calculation of sub-total and total cart prices;
+- Stock validation;
+- Display of error messages;
+- Between others.
 
-Desafio Completo!
+##
 
 
-# 🔧 Como Rodar
+# :camera: Screenshots
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/54922299/135507824-ee98c10e-30ca-4c87-9181-f66c118f54d7.jpeg" width="600px">
+
+</div>
+
+
+
+# :computer: Technologies
+This project was made using the follow technologies:
+
+* [Typescript](https://www.typescriptlang.org/)      
+* [React](https://reactjs.org/)      
+* [Styled Components](https://styled-components.com/)
+
+
+
+
+
+
+
+# :wrench: How to Run
 ```
-# Copie este repositório com o comando
+# Copy this repository with the command
 git clone https://github.com/jpsouza06/desafio03-trilha-reactjs.git
-
-# Instale as dependências
+# Install dependencies
 yarn 
-
-# Rode a aplicação
+# Run the application
 yarn start
-
 ```
+
+
+
+  
+ 
+  
+  
+  
+
+
+
+
